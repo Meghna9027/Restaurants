@@ -1,0 +1,304 @@
+{
+  "restaurants": [
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 1,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 4,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      },
+      "id": 1
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 2,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 4.5,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+      },
+      "id": 2
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 3,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 4.8,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      },
+      "id": 3
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 6,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 4.1,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": false,
+        "cash": false,
+        "upi": true
+      },
+      "id": 4
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 4,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 3.4,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false
+      },
+      "id": 5
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 4,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 2.4,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      },
+      "id": 6
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 67,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 4.4,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 7
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 8,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 1.8,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 8
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 45,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 1.4,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 9
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 44,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 2.6,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      },
+      "id": 10
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 82,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 3.4,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      },
+      "id": 11
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 32,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 0.4,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+      },
+      "id": 12
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 58,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 0.7,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": false,
+        "cash": false,
+        "upi": true
+      },
+      "id": 13
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 97,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 1.1,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": false
+      },
+      "id": 14
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 45,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 5,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": false
+      },
+      "id": 15
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 36,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 3.3,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": false,
+        "cash": true,
+        "upi": true
+      },
+      "id": 16
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 37,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 1.5,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": false,
+        "upi": true
+      },
+      "id": 17
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 75,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 2.9,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": false
+      },
+      "id": 18
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 47,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 0.2,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 19
+    },
+    {
+      "img": "https://vistapointe.net/images/restaurant-wallpaper-12.jpg",
+      "name": "potatoes",
+      "cost": 10,
+      "votes": "potatoes",
+      "reviews": "potatoes",
+      "ratings": 0.6,
+      "categories": "potatoes",
+      "payment_methods": {
+        "card": true,
+        "cash": true,
+        "upi": true
+      },
+      "id": 20
+    }
+  ]
+}
